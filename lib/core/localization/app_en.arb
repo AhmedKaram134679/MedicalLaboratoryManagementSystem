@@ -1,0 +1,103 @@
+{
+  "@@locale": "en",
+  "appTitle": "Medical Laboratory Management System",
+  "dashboard": "Dashboard",
+  "patients": "Patients",
+  "registration": "Patient Registration",
+  "resultsEntry": "Results Entry",
+  "invoices": "Invoices",
+  "inventory": "Inventory",
+  "settings": "Settings",
+  "reports": "Reports",
+  "logout": "Logout",
+  "search": "Search",
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "edit": "Edit",
+  "print": "Print",
+  "refresh": "Refresh",
+  "status": "Status",
+  "name": "Name",
+  "age": "Age",
+  "gender": "Gender",
+  "phone": "Phone",
+  "address": "Address",
+  "doctor": "Doctor",
+  "completed": "Completed",
+  "pending": "Pending",
+  "draft": "Draft",
+  "approved": "Approved",
+  "total": "Total",
+  "paid": "Paid",
+  "remaining": "Remaining",
+  "discount": "Discount",
+  "actions": "Actions",
+  "close": "Close",
+  "adminRequests": "Admin Requests",
+  "noPendingRequests": "No pending requests",
+  "newPassword": "New Password",
+  "resetAndApprove": "Reset & Approve",
+  "passwordResetSuccess": "Password reset successfully",
+  "passwordRecovery": "Password Recovery",
+  "unapproveTest": "Unapprove Test",
+  "requestedOn": "Requested on: {date}",
+  "@requestedOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "resetPasswordFor": "Reset Password for {username}",
+  "@resetPasswordFor": {
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "approve": "Approve",
+  "reject": "Reject",
+  "errorLoadingRequests": "Error loading requests: {error}",
+  "@errorLoadingRequests": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "loginTitle": "Login",
+  "username": "Username",
+  "password": "Password",
+  "forgotPassword": "Forgot Password?",
+  "loginButton": "Sign In",
+  "invalidCredentials": "Invalid username or password",
+  "allFieldsRequired": "Please fill all required fields",
+  "backupManagement": "Backup Management",
+  "createBackup": "Create Backup",
+  "restoreBackup": "Restore Backup",
+  "backupSuccess": "Backup created successfully",
+  "restoreSuccess": "Backup restored successfully",
+  "date": "Date",
+  "exportPdf": "Export PDF",
+  "exportExcel": "Export Excel",
+  "startDate": "Start Date",
+  "endDate": "End Date",
+  "quantity": "Quantity",
+  "unit": "Unit",
+  "minThreshold": "Minimum Threshold",
+  "expiryDate": "Expiry Date",
+  "addItem": "Add Item",
+  "filter": "Filter",
+  "notes": "Notes",
+  "confirmDelete": "Are you sure you want to delete this record?",
+  "warning": "Warning",
+  "success": "Success",
+  "error": "Error",
+  "weakDeficiency": "Weak Deficiency",
+  "moderateDeficiency": "Moderate Deficiency",
+  "preferredLevel": "Preferred Level",
+  "toxicity": "Toxicity",
+  "casts": "Casts"
+}

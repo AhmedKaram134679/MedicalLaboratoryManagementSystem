@@ -1,0 +1,103 @@
+{
+  "@@locale": "ar",
+  "appTitle": "نظام إدارة المختبرات الطبية",
+  "dashboard": "لوحة التحكم",
+  "patients": "سجل المرضى",
+  "registration": "تسجيل مريض جديد",
+  "resultsEntry": "إدخال النتائج",
+  "invoices": "الفواتير والحسابات",
+  "inventory": "إدارة المخزون",
+  "settings": "الإعدادات",
+  "reports": "التقارير",
+  "logout": "تسجيل الخروج",
+  "search": "بحث",
+  "save": "حفظ",
+  "cancel": "إلغاء",
+  "delete": "حذف",
+  "edit": "تعديل",
+  "print": "طباعة",
+  "refresh": "تحديث",
+  "status": "الحالة",
+  "name": "الاسم",
+  "age": "العمر",
+  "gender": "الجنس",
+  "phone": "الهاتف",
+  "address": "العنوان",
+  "doctor": "الطبيب المعالج",
+  "completed": "مكتمل",
+  "pending": "معلق",
+  "draft": "مسودة",
+  "approved": "معتمد",
+  "total": "الإجمالي",
+  "paid": "المدفوع",
+  "remaining": "المتبقي",
+  "discount": "الخصم",
+  "actions": "إجراءات",
+  "close": "إغلاق",
+  "adminRequests": "طلبات الإدارة",
+  "noPendingRequests": "لا توجد طلبات معلقة",
+  "newPassword": "كلمة المرور الجديدة",
+  "resetAndApprove": "إعادة التعيين والموافقة",
+  "passwordResetSuccess": "تمت إعادة تعيين كلمة المرور بنجاح",
+  "passwordRecovery": "استعادة كلمة المرور",
+  "unapproveTest": "إلغاء اعتماد فحص",
+  "requestedOn": "تاريخ الطلب: {date}",
+  "@requestedOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "resetPasswordFor": "إعادة تعيين كلمة المرور للمستخدم {username}",
+  "@resetPasswordFor": {
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "approve": "موافقة",
+  "reject": "رفض",
+  "errorLoadingRequests": "خطأ في تحميل الطلبات: {error}",
+  "@errorLoadingRequests": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "loginTitle": "تسجيل الدخول",
+  "username": "اسم المستخدم",
+  "password": "كلمة المرور",
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "loginButton": "دخول",
+  "invalidCredentials": "اسم المستخدم أو كلمة المرور غير صحيحة",
+  "allFieldsRequired": "يرجى ملء جميع الحقول المطلوبة",
+  "backupManagement": "إدارة النسخ الاحتياطي",
+  "createBackup": "إنشاء نسخة احتياطية",
+  "restoreBackup": "استعادة نسخة احتياطية",
+  "backupSuccess": "تم إنشاء النسخة الاحتياطية بنجاح",
+  "restoreSuccess": "تمت استعادة النسخة الاحتياطية بنجاح",
+  "date": "التاريخ",
+  "exportPdf": "تصدير PDF",
+  "exportExcel": "تصدير Excel",
+  "startDate": "من تاريخ",
+  "endDate": "إلى تاريخ",
+  "quantity": "الكمية",
+  "unit": "الوحدة",
+  "minThreshold": "حد الطلب الأدنى",
+  "expiryDate": "تاريخ الصلاحية",
+  "addItem": "إضافة صنف",
+  "filter": "تصفية",
+  "notes": "ملاحظات",
+  "confirmDelete": "هل أنت متأكد من حذف هذا السجل؟",
+  "warning": "تنبيه",
+  "success": "نجاح",
+  "error": "خطأ",
+  "weakDeficiency": "نقص خفيف",
+  "moderateDeficiency": "نقص متوسط",
+  "preferredLevel": "المستوى المفضل",
+  "toxicity": "سمية",
+  "casts": "أسطوانات"
+}
